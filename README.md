@@ -6,6 +6,7 @@
 	- lcm (https://lcm-proj.github.io/, https://github.com/lcm-proj)
 	- CasADi (www.casadi.org, https://github.com/casadi/casadi)
 	- qpOASES (https://github.com/coin-or/qpOASES)
+	- Eigen (https://eigen.tuxfamily.org/index.php?title=Main_Page)
 	- Hint: ensure that lcm is on your Java classpath, e.g. by adding `export CLASSPATH=${CLASSPATH}:/usr/local/share/java/lcm.jar` to `~/.bashrc`
 	
 1. Go either to folder `admm/` or to `dsqp/`.
