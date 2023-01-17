@@ -1,0 +1,11 @@
+package itmessage;
+struct vector_idx_t
+{
+    int64_t  seq_number; // sequential number of the message
+	int32_t  val_length; // length of the value vector / array
+    double   value[val_length]; // array / vector to be sent
+    int32_t  idx_length;
+    int32_t   idx[idx_length]; //array / idx for original agent
+    int32_t  id_sender; // unique id number of the sender
+}
+ 
