@@ -1,8 +1,8 @@
 # dmpc_rto
 
-# Distributed Model Predictive Control via Decentralized Real Time Optimization
-# Efficient implementations of ADMM for quadratic programming and of d-SQP for nonlinear programming.
-# Please cite https://arxiv.org/abs/2301.07960 if you use this code.
+## Distributed Model Predictive Control via Decentralized Real Time Optimization
+Efficient implementations of ADMM for quadratic programming and of d-SQP for nonlinear programming.
+Please cite https://arxiv.org/abs/2301.07960 if you use this code.
 
 ## Build Instructions
 
