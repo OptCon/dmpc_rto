@@ -2,7 +2,7 @@
 
 ## Distributed Model Predictive Control via Decentralized Real Time Optimization
 Efficient implementations of ADMM for quadratic programming and of d-SQP for nonlinear programming.
-Please cite https://arxiv.org/abs/2301.07960 if you use this code.
+Please cite the [related paper](https://www.sciencedirect.com/science/article/abs/pii/S096706612300148X) if you use this code, see [here](https://arxiv.org/pdf/2301.07960.pdf) for a preprint.
 
 ## Build Instructions
 
